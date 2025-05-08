@@ -4,6 +4,8 @@ This project shows you how to run open‑source large language models (LLMs) loc
 
 ---
 
+![Screenshot of Master UI](Home.png)
+
 ## 🚀 Prerequisites
 
 * **OS**: Windows, macOS, or Linux
@@ -140,3 +142,8 @@ This project shows you how to run open‑source large language models (LLMs) loc
 ## 🎉 Enjoy
 
 You’re now running open‑source LLMs locally with Ollama. Experiment freely, integrate into your own projects, and share feedback or contributions on GitHub!
+
+Home.png
+
+
+![Screenshot of Master UI](Chat.png)

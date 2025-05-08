@@ -556,7 +556,7 @@ export default function MasterChatInterface() {
             </div>
             <div className="mt-2 text-xs text-gray-500 dark:text-gray-400 text-center">
               MASTER may produce inaccurate information. Please verify important details.
-              
+
             </div>
           </div>
         </div>
