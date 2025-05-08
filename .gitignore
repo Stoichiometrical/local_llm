@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 .idea
 media_1
+venv
