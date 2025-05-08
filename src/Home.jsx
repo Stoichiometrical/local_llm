@@ -63,7 +63,7 @@ export default function MasterLandingPage() {
 
       {/* Bottom text */}
       <div className="absolute bottom-6 text-sm text-gray-400 text-center w-full">
-        <p>Powered by state-of-the-art local LLM technology</p>
+        <p>Developed by David Gondo</p>
       </div>
     </div>
   );
